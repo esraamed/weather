@@ -1,0 +1,113 @@
+.first{
+    background-color: #1E202B;
+    
+}
+.home .weather-first  p{
+    font-family: "Roboto Serif", serif;
+    font-size: 10px;
+    font-weight: 300;
+    font-style: normal;
+     Color: #bfc1c8;
+}
+.icon1{
+    border-color: #009AD8!important;
+    
+}
+.icon1:hover{
+    background-color: #009AD8;
+    cursor: pointer;
+}
+.icon2:hover{
+    color: #009AD8!important;
+}
+.navbar-toggler {
+    border-color: rgba(255, 255, 255, 0.1);
+}
+
+
+.navbar-toggler-icon {
+    background-color:#009AD8;
+    
+}
+.home .weather-second  a{
+    color: #278FDF;
+    border-color: #278FDF !important;
+    text-decoration: none;
+  
+}
+input{
+    background-color: #1E202B!important;
+    
+}
+input::placeholder {
+    color: white!important;
+    
+  }
+.next{
+    background-image: url(../images/banner.png);
+    background-position:center ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 200px;
+    
+}
+.btns{
+  
+   background-color: #009AD8;
+}
+.third .inner{
+    background-color: #2D303D;
+}
+.content{
+    background-color: #323544;
+}
+ sup {
+    font-size: 75%;
+    line-height: 0;
+    position: relative;
+    vertical-align: baseline;
+}
+sup {
+    top: -0.5em;
+}
+.par{
+    color:#0090BC ;
+}
+.enter{
+    background-color: #222531;
+}
+.exist{
+    background-color: #262936;
+    
+}
+.third{
+    background-color: #1E202B;
+    
+}
+.ente{
+    background-color: #2D303D;
+}
+.exis{
+    background-color: #323544;
+}
+.final{
+    background-color: #262936;
+}
+.last i{
+    cursor: pointer;
+   text-align: center;
+   border-color: #323544!important;
+   
+}
+.last i:hover{
+    background-color:#009AD8;
+    color: white!important;
+}
+.final p{
+    color: #BFC1C8;
+  
+}
+
+
+
+
